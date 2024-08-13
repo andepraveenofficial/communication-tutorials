@@ -27,10 +27,10 @@
 ```js
 const msg = {
   to: "praveenande2023@gmail.com", // Receiver
-  from: EMAIL, // Provider : must be verified with SendGrid
-  subject: "Sending with Twilio SendGrid is Fun", // Subject of the email
-  text: "and easy to do anywhere, even with Node.js", // Plain text content of the email
-  html: "<strong>and easy to do anywhere, even with Node.js</strong>", // HTML content of the email
+  from: EMAIL, // Provider : must be verified with SendGrid take from .env
+  subject: "I am Subject", // Subject of the email
+  text: "I am text content", // Plain text content of the email
+  html: "<strong>I am HTML Template</strong>", // HTML content of the email
 };
 ```
 

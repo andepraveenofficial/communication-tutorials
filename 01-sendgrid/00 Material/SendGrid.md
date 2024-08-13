@@ -34,6 +34,19 @@
 ---
 
 <details>
+<summary>SendEmail</summary>
+
+## SendEmail
+
+1. Create Message
+2. Config the sendgrid
+3. send email
+
+</details>
+
+---
+
+<details>
 <summary>Documentation</summary>
 
 ## Documentation
