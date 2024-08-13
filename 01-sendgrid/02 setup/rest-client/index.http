@@ -1,0 +1,5 @@
+### 00 Test
+GET http://localhost:5000
+
+### 01 Send Email
+GET http://localhost:5000/send-email
